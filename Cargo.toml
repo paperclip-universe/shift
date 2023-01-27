@@ -1,0 +1,2 @@
+[workspace]
+members = ["shift-tomphttp/*", "shift-core/*"]
